@@ -1,0 +1,25 @@
+.Red-text {
+    color: red;
+}
+
+.Green-text {
+    color: green;
+}
+
+.Blue-text {
+    color: blue;
+}
+
+#yellow-text {
+    color: yellow;
+}
+
+p[draggable = "False"] {
+    color: red;
+}
+
+/* Universal selector - Select ALl */
+
+* {
+    font-size: larger;
+}
